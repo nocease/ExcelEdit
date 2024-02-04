@@ -93,7 +93,7 @@ namespace ExcelEdit
             }
             catch (Exception e)
             {
-                MessageBox.Show("有一个文件处理失败："+ file, "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("有11111个文件处理失败："+ file, "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
